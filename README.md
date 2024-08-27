@@ -3,6 +3,7 @@
 >Juanito
 
 ## en este curso hemos visto de todo:
-*comandos de git
-*github
-*etc
+* comandos de git
+* github
+* etc
+* creado por juanjo
